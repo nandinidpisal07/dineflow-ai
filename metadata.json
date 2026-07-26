@@ -1,0 +1,6 @@
+{
+  "name": "DineFlow AI – Restaurant Intelligence Platform",
+  "description": "Pre-visit customer intelligence platform with AI intent analysis, operational recommendations, real-time order/reservation synchronization, and guest management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
