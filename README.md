@@ -1,62 +1,92 @@
 # 🍽️ DineFlow AI
 
-AI-powered Smart Restaurant Management System built for Vibeathon 6.0.
+An AI-powered Smart Restaurant Management System built for **Vibeathon 6.0**.
 
-## Team:-Atlas Labs
+---
 
-**Nandini Pisal (Solo Developer)**
+# Team Name
 
-## Problem Statement
+**Atlas Labs**
 
-Restaurants often struggle with inefficient order management, table reservations, and customer engagement. DineFlow AI streamlines these operations through an AI-powered platform for both customers and restaurant owners.
+**Team Leader:** Nandini Pisal
 
-## Features
+---
 
-### Customer
-- Restaurant Discovery
-- Digital Menu
-- Food Ordering
-- Live Order Tracking
-- Table Reservation
-- AI Restaurant Assistant
+# Tech Stack
 
-### Restaurant Owner
-- Restaurant Dashboard
-- Menu Management
-- Order Management
-- Reservation Management
-- Live Order Status Updates
-
-## Tech Stack
-
+### Frontend
 - React
 - TypeScript
 - Vite
 - Tailwind CSS
+
+### Backend
 - Supabase
+
+### Database
+- PostgreSQL (Supabase)
+
+### AI
 - Gemini AI
 
-## AI Usage
+### Tools
+- VS Code
+- GitHub
+- Google AI Studio
+- Vercel
 
-Gemini AI is used to provide intelligent restaurant assistance, dining recommendations, and enhance the customer experience.
+---
 
-## Installation
+# User Stories Completed
 
-```bash
-git clone https://github.com/nandidinipisal07/dineflow-ai.git
-cd dineflow-ai
-npm install
-npm run dev
-```
+## User Story 1
+- Modern customer and restaurant interfaces
 
-## Live Demo
+## User Story 2
+- Email authentication
+- Role-based login
 
-Vercel Deployment Link
+## User Story 3
+- Digital menu
+- Food ordering
+- Smart reservations
+- Live order tracking
 
-## GitHub Repository
+## User Story 4
+- Restaurant dashboard
+- Menu management
+- Order management
+- Reservation management
+
+## User Story 5
+- AI Restaurant Assistant
+- Smart recommendations
+
+---
+
+# AI Usage
+
+Gemini AI is integrated to provide:
+- Restaurant assistance
+- Smart recommendations
+- Improved customer experience
+
+---
+
+# Hosted Application Link
+
+**Vercel:** *(Add your deployed Vercel URL here)*
+
+---
+
+# GitHub Repository
 
 https://github.com/nandidinipisal07/dineflow-ai
 
-## Developed For
+---
 
-Vibeathon 6.0 Hackathon
+# Developed For
+
+**Vibeathon 6.0 (Vibecoding Hackathon)**
+
+Smart Restaurant Management System
