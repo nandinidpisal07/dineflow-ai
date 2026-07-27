@@ -1,20 +1,62 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🍽️ DineFlow AI
 
-# Run and deploy your AI Studio app
+AI-powered Smart Restaurant Management System built for Vibeathon 6.0.
 
-This contains everything you need to run your app locally.
+## Team:-Atlas Labs
 
-View your app in AI Studio: https://ai.studio/apps/bd5a95dc-e972-468b-8dc4-b20a76638539
+**Nandini Pisal (Solo Developer)**
 
-## Run Locally
+## Problem Statement
 
-**Prerequisites:**  Node.js
+Restaurants often struggle with inefficient order management, table reservations, and customer engagement. DineFlow AI streamlines these operations through an AI-powered platform for both customers and restaurant owners.
 
+## Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Customer
+- Restaurant Discovery
+- Digital Menu
+- Food Ordering
+- Live Order Tracking
+- Table Reservation
+- AI Restaurant Assistant
+
+### Restaurant Owner
+- Restaurant Dashboard
+- Menu Management
+- Order Management
+- Reservation Management
+- Live Order Status Updates
+
+## Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Supabase
+- Gemini AI
+
+## AI Usage
+
+Gemini AI is used to provide intelligent restaurant assistance, dining recommendations, and enhance the customer experience.
+
+## Installation
+
+```bash
+git clone https://github.com/nandidinipisal07/dineflow-ai.git
+cd dineflow-ai
+npm install
+npm run dev
+```
+
+## Live Demo
+
+Vercel Deployment Link
+
+## GitHub Repository
+
+https://github.com/nandidinipisal07/dineflow-ai
+
+## Developed For
+
+Vibeathon 6.0 Hackathon
